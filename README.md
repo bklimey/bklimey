@@ -2,7 +2,7 @@
 
 [![My github stats](https://github-readme-stats.vercel.app/api?username=bklimey)](https://github.com/anuraghazra/github-readme-stats)
 
-🌱 I’m currently learning MERN stack in web developement.
+🌱 I’m currently learning MERN stack for web developement.
 
 <!--
 **bklimey/bklimey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
