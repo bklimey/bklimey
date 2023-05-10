@@ -25,6 +25,23 @@ Here are some ideas to get you started:
 <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" width="40" height="40"/></a>
 <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" width="40" height="40"/></a>
 <!--Icons credit: https://devicon.dev/ -->
+  
+### Past Projects:
+#### [Socius](https://github.com/bklimey/tp) (Java)
+<a href="https://github.com/bklimey/tp"><img src="https://github.com/bklimey/tp/blob/master/docs/images/Quickstart.png" title="Socius" height="256"/></a>
+- A software enginnering group project
+- Repurposed a contact managing application into a teammate finding application
+
+#### [ButlerPooh](https://github.com/bklimey/ip) (Java)
+<a href="https://github.com/bklimey/ip"><img src="https://github.com/bklimey/ip/blob/master/docs/Ui.png" title="ButlerPooh" height="256"/></a>
+- An individual project to familiarize with Java
+- A task tracker application using chat interface
+  
+#### Static Program Analyzer (C++)
+- Another software enginnering group project
+- Entire project was built from scratch
+- Requires parsing of source code and queries and answer queries about the source code
+- Concepted used: Abstract Syntax Tree, Visitor Design Pattern
 
 ### Connect with me:
 <a href="https://www.linkedin.com/in/limboonkee/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" title="LinkedIn" width="40" height="40"/></a>
