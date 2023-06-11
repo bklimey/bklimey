@@ -27,6 +27,13 @@ Here are some ideas to get you started:
 <!--Icons credit: https://devicon.dev/ -->
   
 ### Past Projects:
+  
+#### Static Program Analyzer (C++)
+- Another software engineering group project
+- Entire project was built from scratch
+- Requires parsing of source code and queries and answer queries about the source code
+- Concepted used: Abstract Syntax Tree, Visitor Design Pattern
+ 
 #### [Socius](https://github.com/bklimey/tp) (Java)
 <a href="https://github.com/bklimey/tp"><img src="https://github.com/bklimey/tp/blob/master/docs/images/Quickstart.png" title="Socius" height="256"/></a>
 - A software engineering group project
@@ -36,10 +43,4 @@ Here are some ideas to get you started:
 <a href="https://github.com/bklimey/ip"><img src="https://github.com/bklimey/ip/blob/master/docs/Ui.png" title="ButlerPooh" height="256"/></a>
 - An individual project to familiarize with Java
 - A task tracker application using chat interface
-  
-#### Static Program Analyzer (C++)
-- Another software engineering group project
-- Entire project was built from scratch
-- Requires parsing of source code and queries and answer queries about the source code
-- Concepted used: Abstract Syntax Tree, Visitor Design Pattern
-  
+ 
