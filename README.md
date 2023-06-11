@@ -42,6 +42,4 @@ Here are some ideas to get you started:
 - Entire project was built from scratch
 - Requires parsing of source code and queries and answer queries about the source code
 - Concepted used: Abstract Syntax Tree, Visitor Design Pattern
-
-### Connect with me:
-<a href="https://www.linkedin.com/in/limboonkee/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" title="LinkedIn" width="40" height="40"/></a>
+  
