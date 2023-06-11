@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 ### Past Projects:
 #### [Socius](https://github.com/bklimey/tp) (Java)
 <a href="https://github.com/bklimey/tp"><img src="https://github.com/bklimey/tp/blob/master/docs/images/Quickstart.png" title="Socius" height="256"/></a>
-- A software enginnering group project
+- A software engineering group project
 - Repurposed a contact managing application into a teammate finding application
 
 #### [ButlerPooh](https://github.com/bklimey/ip) (Java)
@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 - A task tracker application using chat interface
   
 #### Static Program Analyzer (C++)
-- Another software enginnering group project
+- Another software engineering group project
 - Entire project was built from scratch
 - Requires parsing of source code and queries and answer queries about the source code
 - Concepted used: Abstract Syntax Tree, Visitor Design Pattern
